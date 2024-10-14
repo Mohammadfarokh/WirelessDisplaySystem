@@ -1,2 +1,2 @@
 # WirelessDisplaySystem
-Arduino, C
+This project implements a wireless communication system using ESP-NOW protocol for transmitting joystick data from a sender (joystick) to a receiver (microcontroller). The sender collects joystick movement data and sends it wirelessly to the receiver, which displays the data on an LCD screen and uses LED indicators to visually represent the joystick's direction (e.g., left, right, up, down).
